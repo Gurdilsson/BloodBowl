@@ -16,7 +16,7 @@ p {
 html {
     height: 100%;
     background: rgb(160, 109, 42);
-    background: linear-gradient(-45deg, rgb(45, 45, 45) 0%, rgb(180, 155, 10) 100%);
+    background: linear-gradient(-45deg, rgb(170, 38, 38) 0%, rgb(180, 155, 10) 100%);
     background-attachment: fixed;
     background-size: cover;
 }
