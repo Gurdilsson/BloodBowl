@@ -4,15 +4,19 @@ h1 {
     color : red !important;
 }
 
+h2 {
+    color : blue;
+}
+
 p {
     color: red;
     border: 1px solid black;
   }
 
-  html {
+html {
     height: 100%;
     background: rgb(45, 45, 45);
     background: linear-gradient(-45deg, rgb(45, 45, 45) 0%, rgb(65, 55, 55) 100%);
     background-attachment: fixed;
     background-size: cover;
-  }
+}
