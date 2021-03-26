@@ -1,22 +1,13 @@
-h1 {
-    font-size: 200px;
-    text-align: center;
-    color : red !important;
-}
-
-h2, h3 {
-    color : blue;
-}
-
-p {
-    color: red;
-    border: 1px solid black;
+#navigation {
+    width: 200px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
   }
 
-html {
-    height: 100%;
-    background: rgb(160, 109, 42);
-    background: linear-gradient(-45deg, rgb(170, 38, 38) 0%, rgb(180, 155, 10) 100%);
-    background-attachment: fixed;
-    background-size: cover;
-}
+  #navigation li {
+    background: #c00 ;
+    color: #fff ;
+    border: 1px solid #600 ;
+    margin-bottom: 1px ;
+  }
