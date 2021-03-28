@@ -151,3 +151,8 @@ h1{
     width: 50%;
     height: 50%;
 }
+
+.selectionne {
+    background-color: rgb(71, 71, 71);
+    color : white;
+}
