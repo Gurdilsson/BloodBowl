@@ -1,5 +1,24 @@
 body {
-    background-image : url("../images/Planning.jpg");
-    background-attachment: fixed;
     background-color:#a5a5a5;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.planning {
+    background-color: rgba(236, 194, 56);
+    width: 50%;
+    border : solid black;
+    font-family: 'Lobster', cursive;
+    margin : 0 auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
 }

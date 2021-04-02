@@ -3,3 +3,12 @@ body {
     background-attachment: fixed;
     background-color:#a5a5a5;
 }
+
+.classement {
+    background-color: rgba(236, 194, 56);
+    width: 25%;
+    border : solid black;
+    font-family: 'Lobster', cursive;
+    list-style-type: none;
+    margin-left: 0;
+}
