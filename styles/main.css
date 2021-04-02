@@ -147,6 +147,12 @@ tr:nth-child(odd) td {
     background-color: rgb(21, 95, 182);
 }
 
+.hommesLezards{
+    border : medium solid rgb(49, 133, 172);
+    color : white;
+    background-color: rgb(49, 183, 172);
+}
+
 h1{
     width: 50%;
     height: 50%;
@@ -155,4 +161,20 @@ h1{
 .selectionne {
     background-color: rgb(71, 71, 71);
     color : white;
+}
+
+.right {
+    float: right;
+    background-color: rgba(236, 194, 56);
+    width: 40%;
+    border : solid black;
+    font-family: 'Lobster', cursive;
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 10px;
+    margin-left: 0px;
+}
+
+.bold {
+    font: bold;
 }
