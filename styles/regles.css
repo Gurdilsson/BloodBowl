@@ -7,6 +7,7 @@ p, .text{
     width: 50%;
     border : solid black;
     font-family: 'Lobster', cursive;
+    text-align: justify;
 }
 
 ul {

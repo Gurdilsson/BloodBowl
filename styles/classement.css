@@ -6,9 +6,25 @@ body {
 
 .classement {
     background-color: rgba(236, 194, 56);
-    width: 25%;
+    width: 15%;
     border : solid black;
     font-family: 'Lobster', cursive;
     list-style-type: none;
-    margin-left: 0;
+    
+}
+
+p, .text{
+    background-color: rgba(236, 194, 56);
+    width: 50%;
+    border : solid black;
+    font-family: 'Lobster', cursive;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+h1{
+    color : rgba(236, 194, 56);
 }
