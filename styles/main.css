@@ -165,7 +165,7 @@ h1{
 
 .right {
     float: right;
-    background-color: rgba(236, 194, 56);
+    background-color: rgb(175, 158, 101);
     width: 40%;
     border : solid black;
     font-family: 'Lobster', cursive;

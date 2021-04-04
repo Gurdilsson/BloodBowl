@@ -5,7 +5,7 @@ body {
 }
 
 .classement {
-    background-color: rgba(236, 194, 56);
+    background-color: rgb(175, 158, 101);
     width: 15%;
     border : solid black;
     font-family: 'Lobster', cursive;
@@ -14,9 +14,9 @@ body {
 }
 
 p, .text{
-    background-color: rgba(236, 194, 56);
+    background-color: rgb(175, 158, 101);
     width: 50%;
-    border : solid black;
+    border : solid rgb(61, 59, 59);
     font-family: 'Lobster', cursive;
     padding-left: 10px;
     padding-right: 10px;
@@ -26,5 +26,5 @@ p, .text{
 }
 
 h1{
-    color : rgba(236, 194, 56);
+    color : rgb(175, 158, 101);
 }

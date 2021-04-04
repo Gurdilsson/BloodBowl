@@ -3,7 +3,7 @@ body {
 }
 
 p, .text{
-    background-color: rgba(236, 194, 56);
+    background-color: rgb(175, 158, 101);
     width: 50%;
     border : solid black;
     font-family: 'Lobster', cursive;
