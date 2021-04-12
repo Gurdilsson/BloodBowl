@@ -9,8 +9,11 @@ body {
     width: 15%;
     border : solid black;
     font-family: 'Lobster', cursive;
+    text-align: center;
     list-style-type: none;
-    
+    margin-left: 0;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 p, .text{
