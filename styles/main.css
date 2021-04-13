@@ -73,6 +73,7 @@ body {
     background-image : url("../images/wallpaperflare.com_wallpaper.jpg");
     background-color:#a5a5a5;
     background-repeat: no-repeat;
+    background-size : cover;
 }
 
 caption {
