@@ -3,3 +3,9 @@ body {
     background-attachment: fixed;
     background-color:#a5a5a5;
 }
+
+.hommesLezards{
+    border : medium solid rgb(49, 133, 172);
+    color : white;
+    background-color: rgb(49, 183, 172);
+}

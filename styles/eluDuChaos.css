@@ -3,3 +3,9 @@ body {
     background-attachment: fixed;
     background-color:#a5a5a5;
 }
+
+.eluDuChaos{
+    border : medium solid rgb(197, 127,7);
+    color : white;
+    background-color: rgb(197, 77, 7);
+}

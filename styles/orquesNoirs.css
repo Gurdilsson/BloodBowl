@@ -3,3 +3,9 @@ body {
     background-attachment: fixed;
     background-color:#a5a5a5;
 }
+
+.orquesNoirs {
+    border : medium solid rgb(10, 91, 10);
+    color : white;
+    background-color: rgb(10, 41, 10);
+}

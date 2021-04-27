@@ -3,3 +3,9 @@ body {
     background-attachment: fixed;
     background-color:#a5a5a5;
 }
+
+.nurgle{
+    border : medium solid rgb(133, 254, 0);
+    color : white;
+    background-color: rgb(133, 204, 0);
+}

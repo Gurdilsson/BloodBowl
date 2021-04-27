@@ -3,3 +3,9 @@ body {
     background-attachment: fixed;
     background-color:#a5a5a5;
 }
+
+.elfesNoirs{
+    border : medium solid rgb(82, 65, 78);
+    color : white;
+    background-color: rgb(82, 15, 78);
+}
