@@ -1,0 +1,7 @@
+.news {
+    animation: votre_animation 15s infinite
+}
+
+@keyframes votre_animation{
+    from { margin-left:-40%; } to { transform: translatex(150%) } 
+}
